@@ -1,4 +1,5 @@
 .virtualenv
+.data-exploration
 .idea
 .ipynb_checkpoints
 config.ini
